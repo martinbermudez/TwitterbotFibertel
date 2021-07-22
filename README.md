@@ -1,4 +1,7 @@
-# HonestFibertelUser1
- Twitter bot that fetchs the internet speed and tweets about it.
- Python + Selenium.
- Automatized by Martin Bermudez.
+# Twitter bot
+ @honestfibertel1 is a Twitter bot that fetchs your internet speed and tweets about it.
+ 
+ *Python + Selenium.*
+ <hr>
+ 
+ **Automatized by Martin Bermudez.**
